@@ -33,6 +33,7 @@ button{
 	display: flex;
 	flex-direction: row;
 	width: 650px;
+	min-height: 700px;
 	box-shadow: 0 15px 15px -5px rgba(160, 180, 200, 0.8);
 	border-radius: 2rem;
 }
